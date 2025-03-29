@@ -1,2 +1,1 @@
-# Cubethon Rocket
- 
+https://classiccraze.github.io/Cubethon/ 
